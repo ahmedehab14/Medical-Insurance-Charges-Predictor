@@ -12,11 +12,7 @@ This project aims to analyze a medical insurance dataset to understand the facto
 - [Model Development](#model-development)
 - [Performance Evaluation](#performance-evaluation)
 - [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributors](#contributors)
-- [License](#license)
-
+  
 ## Introduction
 Medical insurance charges can vary widely based on several factors, including age, gender, body mass index (BMI), number of children, smoking status, and geographical region. This project focuses on cleaning the dataset, performing exploratory data analysis (EDA), and developing predictive models to better understand these relationships.
 
