@@ -43,8 +43,7 @@ The dataset contains the following features:
 - Identified key variables that significantly impact the charges.
 
 ## Model Development
-- Split the dataset into training and testing subsets (80/20).
-- Implemented a pipeline using `StandardScaler()`, `PolynomialFeatures()`, and `LinearRegression()`.
+- Split the dataset into training and testing subsets (70/30).
 - Evaluated models based on \( R^2 \), Mean Absolute Error (MAE), and Mean Squared Error (MSE).
 
 ## Performance Evaluation
